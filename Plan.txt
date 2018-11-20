@@ -1,0 +1,19 @@
+Tasks:
+
+Import Class data
+	Cavnvas download? Where does Canvas get it's data from? No idea...
+
+Get SLOs from someplace?
+
+Make buttons for data entry
+
+testing?
+
+csv cleaning
+
+data management?
+
+permissions?
+
+
+

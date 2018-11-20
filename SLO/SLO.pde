@@ -1,0 +1,3 @@
+//Need a way to enter SLO data easily without loosing the ability to access it...
+
+//https://processing.org/reference/loadTable_.html
